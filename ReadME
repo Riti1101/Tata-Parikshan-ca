@@ -1,0 +1,10 @@
+To get emoji and all in chat use stream chat component..visit site> chat and explore all ui component of react
+using stream api
+
+
+api connection stream
+
+
+//IN create/channel                       { id: { $ne: client.userID } }, this is uds to hide the user intself in uderlist
+example : at 2:50-3:10
+in stream chat > chat> explore > channel : user --> There you can create a new channel or user or else in webapp also..and there it will be visible
